@@ -82,7 +82,7 @@ I’m excited to connect with data professionals and explore new opportunities w
 ---
 
 
-### 🔹 **Capstone Project — Advanced MS Excel**
+### 🔹 **Capstone Project on MS Excel**
 - Analyzed **10,000+ retail transactions** to identify trends in customer behavior, order distribution, and delivery performance.
 - Processed multi-sheet data using Excel tools (Power Query, Pivot Tables, Lookups) for operational insights.
 - Evaluated **20+ delivery slots** and **15+ drop areas** to detect performance trends and highlight 99%+ completion windows.
