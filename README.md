@@ -64,30 +64,21 @@ I’m excited to connect with data professionals and explore new opportunities w
 
 
 ### 🔹 **Capstone Project — Power BI**
-- Developed a Power BI dashboard analyzing **50,000+ sales records**, tracking revenue, delivery performance, and customer satisfaction metrics.
-- Utilized Power Query and DAX to clean data, build KPIs, and create **8+ interactive visuals** on category sales, delayed orders, and payment trends.
-- Improved visibility of key metrics by **30%**, supporting faster decisions and identifying delivery issues across **10+ regions**.
+Developed a comprehensive Power BI dashboard to uncover sales drivers, delayed orders, seasonal patterns, and customer satisfaction metrics for ShopNest. The project enables data-driven decisions across sales, operations, and customer engagement. It transforms raw data into actionable insights using Power Query, DAX, and advanced visualizations.
 
 
 ---
 
 
 ### 🔹 **Capstone Project — Data Analysis Using Python**
-- Worked with unstructured Employee and Project datasets requiring significant data cleaning.
-- Transformed raw data into structured formats using Python for preprocessing.
-- Performed data wrangling with Pandas—handling missing values, formatting fields, updating hierarchies, merging datasets, and aggregating project costs.
-- Delivered a cleaned, merged dataset and analytical tables, reducing manual effort by **80%**.
+A Python-based data analysis project focused on cleaning, transforming, and integrating multiple datasets using Pandas. The project includes handling missing values, applying conditional logic, merging datasets, and generating analytical summaries.
 
 
 ---
 
 
 ### 🔹 **Capstone Project on MS Excel**
-- Analyzed **10,000+ retail transactions** to identify trends in customer behavior, order distribution, and delivery performance.
-- Processed multi-sheet data using Excel tools (Power Query, Pivot Tables, Lookups) for operational insights.
-- Evaluated **20+ delivery slots** and **15+ drop areas** to detect performance trends and highlight 99%+ completion windows.
-- Identified delivery bottlenecks and customer segment patterns to support fulfillment optimization.
-
+Performed end-to-end data cleaning, modeling, and analysis using Excel (Power Query, Pivot Tables) on Freshco’s retail dataset. Integrated order, customer, and delivery data to reveal operational patterns and generate insights that improve fulfillment performance and customer experience.
 
 ---
 
